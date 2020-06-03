@@ -1,0 +1,10 @@
+html {
+	font-family: 'Roboto', sans-serif;
+}
+h1 {
+	font-weight: bold;
+}
+.icons i {
+	font-size: 3em;
+	padding: 5px 15px 10px 0;
+}
